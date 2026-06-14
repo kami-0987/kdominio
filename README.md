@@ -1,0 +1,2 @@
+# kdominio
+Scrip Termux 
